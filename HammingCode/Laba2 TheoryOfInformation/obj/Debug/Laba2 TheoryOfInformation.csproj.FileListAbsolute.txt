@@ -1,0 +1,10 @@
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\bin\Debug\Laba2 TheoryOfInformation.exe.config
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\bin\Debug\Laba2 TheoryOfInformation.exe
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\bin\Debug\Laba2 TheoryOfInformation.pdb
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\obj\Debug\Laba2 TheoryOfInformation.csprojAssemblyReference.cache
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\obj\Debug\Laba2_TheoryOfInformation.Form1.resources
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\obj\Debug\Laba2_TheoryOfInformation.Properties.Resources.resources
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\obj\Debug\Laba2 TheoryOfInformation.csproj.GenerateResource.cache
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\obj\Debug\Laba2 TheoryOfInformation.csproj.CoreCompileInputs.cache
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\obj\Debug\Laba2 TheoryOfInformation.exe
+C:\Users\Василь\source\repos\Laba2 TheoryOfInformation\Laba2 TheoryOfInformation\obj\Debug\Laba2 TheoryOfInformation.pdb
